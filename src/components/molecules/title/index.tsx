@@ -7,6 +7,7 @@ export const Title: Component = () => {
 			<Header color="#6689C5" url="https://www.solidjs.com/">SolidJS</Header>
 			<Header color="#191919" url="https://github.com/unocss/unocss">UnoCSS</Header>
 			<Header color="#E58B20" url="https://effector.dev/">Effector</Header>
+			<Header color="#74B784" url="https://atomic-router.github.io/">Atomic-router</Header>
 		</div>
 	);
 };
